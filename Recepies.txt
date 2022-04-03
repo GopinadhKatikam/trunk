@@ -11,6 +11,9 @@ servelets
 api
 sql
 
+frameworks
+databases
+
 Thankyou
 
 done my changes
